@@ -57,6 +57,7 @@ var RULES = [
     //custom-list
     [
         ".vmall.com",
+	".baidupcs.com",
         ".zoopda.com",
         ".yixun.com",
         ".jd.com",
